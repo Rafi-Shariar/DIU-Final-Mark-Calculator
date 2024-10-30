@@ -686,6 +686,14 @@ video {
   padding: 1.25rem;
 }
 
+.p-10 {
+  padding: 2.5rem;
+}
+
+.p-20 {
+  padding: 5rem;
+}
+
 .pl-\[100px\] {
   padding-left: 100px;
 }
